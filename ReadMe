@@ -1,0 +1,5 @@
+This is a Simple FootBall Game
+A Team has Name, Type and Score
+A Game has List of 2 Teams which will be playing against each other. Added a constraint that only 2 teams can be added in a Game.
+FootBall game has a scoreboards, which is a list of Games going on. 
+User can add teams to a Game, Update the scores to a team, display all the games with latest game added displayed first. remove a game from score board.
